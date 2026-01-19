@@ -1,0 +1,3 @@
+FROM jess/firefox
+ENV DISPLAY=:0
+CMD ["firefox"]
