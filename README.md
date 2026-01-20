@@ -16,7 +16,7 @@ sudo apt install rclone -y
 # rclone serve webdav --addr 127.0.0.1:8000 ./Asset/
 rclone serve webdav --addr 127.0.0.1:8000 /home/mustafa/
 
-qemu-img create -f qcow2 ./Asset/denemeHDD.qcow 50G
+qemu-img create -f qcow2 ./Asset/denemeHDD3.qcow 50G
 
 sh ./Install_System.sh
 
