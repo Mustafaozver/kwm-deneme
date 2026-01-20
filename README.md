@@ -1,13 +1,9 @@
 # kwm-deneme
 
-
-
 ```
 # OVMF.fd dosyasını indirin
 # https://github.com/clearlinux/common/blob/master/OVMF.fd
 ```
-
-
 
 ```bash
 sudo apt install qemu-kvm -y
